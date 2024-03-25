@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTabLayoutStyle" parent="Widget.Design.TabLayout">
+        <item name="tabBackground">@color/gray_bg</item>
+<!--        <item name="tabIndicator">@null</item>-->
+        <item name="tabSelectedTextColor">@color/accent2</item>
+        <item name="tabTextColor">@color/accent2</item>
+        <item name="android:textAllCaps">false</item>
+<!--     if unselected use color primary1   -->
+<!--        <item name="tabTextAppearance">@style/CustomTabTextAppearance</item>-->
+
+    </style>
+</resources>
